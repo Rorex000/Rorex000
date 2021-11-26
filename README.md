@@ -3,7 +3,7 @@
 <img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
 </div>
 
-# Hi there, I'm Vedant <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Hi there <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
@@ -13,59 +13,12 @@
 ----
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/vedant-chainani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.reddit.com/user/envoyVC1084"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="https://www.github.com/devknight216"><img src="https://img.shields.io/badge/Github-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="mailto:vedantchainani1084@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://dev.to/envoy_"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-<a href="https://steamcommunity.com/profiles/76561199077181432/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-
 <br><br>
 ----
 
-## I'm a Student!!
 
-- 🌱 I’m currently learning Blockchain
-- 👯 I’m looking to contribute to open source
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
-- ⚡ Fun fact: I love to play games
-<br>
-----
-<br>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const vedant = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python","HTML", "CSS","MySQL"],
-    askMeAbout: ["WebDev", "Tech", "Gaming"],
-    technologies: {
-        backEnd: {
-            js: ["Node"],
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp","discord.py"]
-    },
-    currentFocus: "Python",
-    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
-          The second byte replies, 'No, just feeling a bit off.'"
-};
-```
-<br>
-
-----
-<br>
-
-## Now Playing
-
-
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae)
-
-----
-<br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -121,85 +74,4 @@ const vedant = {
 
 </td></tr></table>  
 
-
-<br>
-<br>
-
-----
-
-<br>
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How Secure is Blockchain!](https://dev.to/envoy_/how-secure-is-blockchain-4lhm)
-- [Blockchain Key Terms](https://dev.to/envoy_/blockchain-key-terms-m57)
-- [What’s The Blockchain?](https://dev.to/envoy_/whats-the-blockchain-4kik)
-- [Blockchain App Developer Roadmap ✨✨✨](https://dev.to/envoy_/blockchain-app-developer-roadmap-31p5)
-- [Jina - Cloud-Native Neural Search Framework for Any Kind of Data](https://dev.to/envoy_/jina-cloud-native-neural-search-framework-for-any-kind-of-data-56hh)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-<br>
-
-----
-
-<br>
-
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-<br>
-<br>
-
-----
-
-<br>
-
-## Github Stats
-<br>
-
-![Envoy-VC's GitHub stats](https://readme-stats-envoy-vc.vercel.app/api?username=envoy-vc&show_icons=true&theme=dark)
-
-<br>
-
-----
-
-<br>
-
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Envoy-VC/Envoy-VC)
-
-<br>
-<br>
-
-----
-
-<br>
-
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/lonewolf1084/hello/pull/8) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
-2. 💪 Opened PR [#7](https://github.com/lonewolf1084/hello/pull/7) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
-3. 💪 Opened PR [#6](https://github.com/lonewolf1084/hello/pull/6) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
-4. 💪 Opened PR [#5](https://github.com/lonewolf1084/hello/pull/5) in [lonewolf1084/hello](https://github.com/lonewolf1084/hello)
-<!--END_SECTION:activity-->
-
-</details>
-
-<br>
-<br>
-
-----
-
-<br>
-
-<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">![image](https://user-images.githubusercontent.com/91182331/143604996-af0308fa-3287-43f1-b27d-90b3a61503fa.png)
+<img src="https://github-readme-stats.vercel.app/api?username=devknight216&show_icons=true&theme=ADD_THEME_HERE" width="400">
