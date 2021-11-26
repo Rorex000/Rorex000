@@ -14,7 +14,7 @@
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
 <a href="https://www.github.com/devknight216"><img src="https://img.shields.io/badge/Github-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="mailto:vedantchainani1084@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:devknight216@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br><br>
 ----
 
